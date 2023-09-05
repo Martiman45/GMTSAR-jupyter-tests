@@ -1,2 +1,16 @@
 test_GMTSAR/ALOS2_Brazil.tar.gz
 test_GMTSAR/ALOS2_Brazil.tar.gz.1
+test_GMTSAR/ALOS2_Brazil/raw/IMG-HH-ALOS2011986990-140813-HBQR1.1__A
+test_GMTSAR/ALOS2_Brazil/raw/IMG-HH-ALOS2014056990-140827-HBQR1.1__A
+test_GMTSAR/ALOS2_Brazil/raw/LED-ALOS2011986990-140813-HBQR1.1__A
+test_GMTSAR/ALOS2_Brazil/raw/LED-ALOS2014056990-140827-HBQR1.1__A
+test_GMTSAR/ALOS2_Brazil/topo/.gmtcommands4
+test_GMTSAR/ALOS2_Brazil/topo/dem.grd
+test_GMTSAR/ALOS2_Brazil/topo/kml/dem_grad.cpt
+test_GMTSAR/ALOS2_Brazil/topo/kml/dem_grad.kml
+test_GMTSAR/ALOS2_Brazil/topo/kml/dem_grad.png
+test_GMTSAR/ALOS2_Brazil/topo/kml/dem_ortho.grd
+test_GMTSAR/ALOS2_Brazil/topo/kml/dem.ps
+test_GMTSAR/ALOS2_Brazil/topo/kml/filelist
+test_GMTSAR/ALOS2_Brazil/topo/kml/run_mosaic.com
+test_GMTSAR/ALOS2_SCAN_SSAF.tar.gz
