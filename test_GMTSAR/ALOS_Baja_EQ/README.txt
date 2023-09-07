@@ -1,4 +1,5 @@
-#February 17, 2011
+#
+ebruary 17, 2011
 #David T. Sandwell
 
 #This is an example set of ALOS PALSAR data to make an interferogram of T212, F0640 spanning the M7.2 Easter Sunday Earthquake in Northern Baja California.  The raw data consist of an FBS image before the earthquake and an FBD image after the earthquake.  The file config.ALOS.txt contains reasonable processing parameters.
