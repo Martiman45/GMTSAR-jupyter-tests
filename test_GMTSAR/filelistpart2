@@ -5,11 +5,12 @@ ALOS_ERSDAC_L1.0
 ALOS_Indio_SBAS
 ALOS_SLC_L1.1
 
+CSK_RAW_Hawaii
+CSK_SLC_Italy
+ENVI_2907_stack
+ENVI_Baja_EQ
+ENVI_Baja_EQ_SLC
 
 
-ERS_Hector_EQ
-RS2_SLC_Hawaii
-S1A_SLC_TOPS_LA
 S1_Ridgecrest_EQ
 S1A_Stack_CPGF_T173
-TSX_SLC_Hawaii
